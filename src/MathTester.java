@@ -6,10 +6,10 @@ public class MathTester {
         int firstNumber,secondNumber,total;
 
         firstWord = "dog";
-        secondWord = "house";
+        secondWord = "catcher";
 
-        firstNumber = 5;
-        secondNumber = 10;
+        firstNumber = 25;
+        secondNumber = 30;
         total = firstNumber+secondNumber;
         System.out.println(total);
         total = total +10;
